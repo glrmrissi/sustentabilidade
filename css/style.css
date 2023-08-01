@@ -1,3 +1,8 @@
+body {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
 .verde {
     width: 100%;
     background-color: #92c792;
